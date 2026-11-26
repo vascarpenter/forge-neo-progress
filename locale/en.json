@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Forge Neo generation progress",
+    "description": "Shows live generation progress (status, step count, percent, remaining time, and an in-progress preview image) from a configured Forge Neo server as a status bar below the message composer. It reads progress through a same-origin route the plugin registers on the Harness web server, so the browser never needs direct access to Forge. Set the Forge server URL in this plugin's configuration; the bar stays visible while generating and idles at a low polling rate otherwise."
+  }
+}

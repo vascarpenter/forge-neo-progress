@@ -1,0 +1,13 @@
+- insert:
+    - id: forge-neo-progress
+      name: '@local/forge-neo-progress'
+      # デプロイ固有の値（forgeUrl など）は同梱しません。公開時に個人環境の
+      # URL を漏らさないためです。各行は index.js の DEFAULTS（既定値）で動き、
+      # 必要なら次のいずれかで上書きしてください（詳細は README の Configuration）:
+      #   - Plugin Manager のこのプラグイン行の config
+      #   - 自分のプロファイル patch での同名 insert（bundle layer より後に
+      #     適用されるので優先されます。config 全体が置き換わります）
+      # 例:
+      #   config:
+      #     forgeUrl: http://your-forge-host:7865
+      config: {}

@@ -1,0 +1,12 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="7" y="7" width="22" height="22" rx="5" fill="url(#fnp-card)" fill-opacity="0.9" />
+  <circle cx="18" cy="18" r="7.2" fill="none" stroke="#FFFFFF" stroke-opacity="0.32" stroke-width="2.2" />
+  <circle cx="18" cy="18" r="7.2" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="31.667 13.572" transform="rotate(-90 18 18)" />
+  <polygon points="18,14.8 18.88,17.12 21.2,18 18.88,18.88 18,21.2 17.12,18.88 14.8,18 17.12,17.12" fill="#FFFFFF" />
+  <defs>
+    <linearGradient id="fnp-card" x1="18" y1="7" x2="18" y2="29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6BB6FF" />
+      <stop offset="1" stop-color="#3A4BE0" />
+    </linearGradient>
+  </defs>
+</svg>
